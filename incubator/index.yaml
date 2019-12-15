@@ -3,7 +3,7 @@ entries:
   jupyter-single:
   - apiVersion: v1
     appVersion: "1.0"
-    created: 2019-10-22T11:18:07.697449315Z
+    created: 2019-12-15T10:12:18.414412789Z
     description: A Helm chart for a single Jupyter instance
     digest: 1dd1ec6fe8e71c9a801cd1ec9b0086001ac4d1e9d77d870ebaa52ddf2a484cc6
     home: https://jupyter.org/
@@ -12,48 +12,48 @@ entries:
       name: Infrastructure Team
     name: jupyter-single
     urls:
-    - https://src-d.github.io/charts/incubator/jupyter-single-0.3.1.tgz
+    - https://maartje.dev/charts-srcd/incubator/jupyter-single-0.3.1.tgz
     version: 0.3.1
   - apiVersion: v1
     appVersion: "1.0"
-    created: 2019-10-22T11:18:07.697120717Z
+    created: 2019-12-15T10:12:18.413671125Z
     description: A Helm chart for a single Jupyter instance
     digest: 7c00cf946fb367b758035663c80adef032e94566d9db37384183cc10c93eab6e
     name: jupyter-single
     urls:
-    - https://src-d.github.io/charts/incubator/jupyter-single-0.3.0.tgz
+    - https://maartje.dev/charts-srcd/incubator/jupyter-single-0.3.0.tgz
     version: 0.3.0
   - apiVersion: v1
     appVersion: "1.0"
-    created: 2019-10-22T11:18:07.696866847Z
+    created: 2019-12-15T10:12:18.413055929Z
     description: A Helm chart for a single Jupyter instance
     digest: 2bdc458d0c3322d4bc079c8f0dc80c6266b41c3b10c9236321be66ab8835e221
     name: jupyter-single
     urls:
-    - https://src-d.github.io/charts/incubator/jupyter-single-0.2.0.tgz
+    - https://maartje.dev/charts-srcd/incubator/jupyter-single-0.2.0.tgz
     version: 0.2.0
   - apiVersion: v1
     appVersion: "1.0"
-    created: 2019-10-22T11:18:07.696617631Z
+    created: 2019-12-15T10:12:18.412442563Z
     description: A Helm chart for a single Jupyter instance
     digest: 06b369045e960ce4af42e4ff34174bf0830ff7680c8636d6e02dc19d352d598e
     name: jupyter-single
     urls:
-    - https://src-d.github.io/charts/incubator/jupyter-single-0.1.1.tgz
+    - https://maartje.dev/charts-srcd/incubator/jupyter-single-0.1.1.tgz
     version: 0.1.1
   - apiVersion: v1
     appVersion: "1.0"
-    created: 2019-10-22T11:18:07.696346513Z
+    created: 2019-12-15T10:12:18.411708988Z
     description: A Helm chart for a single Jupyter instance
     digest: c8417a8316b280bb8e3a8252bf8996411463391bc4261eceaaff735df6d55386
     name: jupyter-single
     urls:
-    - https://src-d.github.io/charts/incubator/jupyter-single-0.1.0.tgz
+    - https://maartje.dev/charts-srcd/incubator/jupyter-single-0.1.0.tgz
     version: 0.1.0
   spark-api-jupyter:
   - apiVersion: v1
     appVersion: 0.0.6
-    created: 2019-10-22T11:18:07.698003888Z
+    created: 2019-12-15T10:12:18.415570529Z
     description: A Helm chart for Kubernetes
     digest: 03e7b1f855f764bc114b52b74ead625f70bd2b3aa24a0df02bc9d99901ed8d97
     home: https://github.com/src-d
@@ -62,14 +62,14 @@ entries:
       name: Infrastructure Team
     name: spark-api-jupyter
     urls:
-    - https://src-d.github.io/charts/incubator/spark-api-jupyter-0.1.2.tgz
+    - https://maartje.dev/charts-srcd/incubator/spark-api-jupyter-0.1.2.tgz
     version: 0.1.2
   - apiVersion: v1
-    created: 2019-10-22T11:18:07.697693843Z
+    created: 2019-12-15T10:12:18.414975015Z
     description: A Helm chart for Kubernetes
     digest: 32e0d463d4e91644a82297634ee13714a47bcb94ebd8bf68da04665e05ca54e6
     name: spark-api-jupyter
     urls:
-    - https://src-d.github.io/charts/incubator/spark-api-jupyter-0.1.1.tgz
+    - https://maartje.dev/charts-srcd/incubator/spark-api-jupyter-0.1.1.tgz
     version: 0.1.1
-generated: 2019-10-22T11:18:07.695950275Z
+generated: 2019-12-15T10:12:18.410351104Z
