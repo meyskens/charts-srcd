@@ -13,6 +13,7 @@ redirects: []
   # - to:
   #   preservePath: false
   #   hostname:
+  #   path: 
 
 service:
   # NodePort is needed to work properly with default ingress
