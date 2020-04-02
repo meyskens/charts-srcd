@@ -21,7 +21,7 @@ spec:
     - host: {{ required "Hostname is missing" $redirect.hostname }}
       http:
         paths:
-          - path: {{ $path }}
+          - path: {{ $path }}{{ $redirect.path }}
             backend:
               serviceName: {{ $serviceName }}
               servicePort: {{ $servicePort }}
